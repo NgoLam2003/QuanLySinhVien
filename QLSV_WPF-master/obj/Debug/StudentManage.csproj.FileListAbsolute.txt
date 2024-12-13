@@ -1,0 +1,34 @@
+D:\job_c#\StudentManage\bin\Debug\StudentManage.exe.config
+D:\job_c#\StudentManage\bin\Debug\StudentManage.exe
+D:\job_c#\StudentManage\bin\Debug\StudentManage.pdb
+D:\job_c#\StudentManage\bin\Debug\EntityFramework.dll
+D:\job_c#\StudentManage\bin\Debug\EntityFramework.SqlServer.dll
+D:\job_c#\StudentManage\bin\Debug\EntityFramework.xml
+D:\job_c#\StudentManage\bin\Debug\EntityFramework.SqlServer.xml
+D:\job_c#\StudentManage\obj\Debug\StudentManage.csproj.AssemblyReference.cache
+D:\job_c#\StudentManage\obj\Debug\StudentManage.Properties.Resources.resources
+D:\job_c#\StudentManage\obj\Debug\StudentManage.csproj.GenerateResource.cache
+D:\job_c#\StudentManage\obj\Debug\StudentManage.csproj.CoreCompileInputs.cache
+D:\job_c#\StudentManage\obj\Debug\StudentM.8B404CC9.Up2Date
+D:\job_c#\StudentManage\obj\Debug\StudentManage.exe
+D:\job_c#\StudentManage\obj\Debug\StudentManage.pdb
+D:\job_c#\StudentManage\obj\Debug\StudentManage.StudentManage.resources
+D:\job_c#\StudentManage\obj\Debug\StudentManage.EnterInfo.resources
+D:\job_c#\StudentManage\obj\Debug\StudentManage.ScoreManage.resources
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\bin\Debug\StudentManage.exe.config
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\bin\Debug\StudentManage.exe
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\bin\Debug\StudentManage.pdb
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\bin\Debug\EntityFramework.dll
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\bin\Debug\EntityFramework.xml
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\obj\Debug\StudentManage.csproj.AssemblyReference.cache
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\obj\Debug\StudentManage.EnterInfo.resources
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\obj\Debug\StudentManage.Properties.Resources.resources
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\obj\Debug\StudentManage.ScoreManage.resources
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\obj\Debug\StudentManage.StudentManage.resources
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\obj\Debug\StudentManage.csproj.GenerateResource.cache
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\obj\Debug\StudentManage.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\obj\Debug\StudentM.8B404CC9.Up2Date
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\obj\Debug\StudentManage.exe
+C:\Users\Thanh Lam\Downloads\QLSV_WPF-master\QLSV_WPF-master\obj\Debug\StudentManage.pdb
